@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jyotil-raval
-- 👀 I’m interested in BlockChain, ML, Dynamic Programming
-- 🌱 I’m currently learning Dynamic Programming
-- 📫 How to reach me - jyotil@outlook.com
+## 👋 Hi, I’m @jyotil-raval
+## 👀 I’m interested in BlockChain, ML, Dynamic Programming
+## 🌱 I’m currently learning Dynamic Programming
+## 📫 How to reach me - jyotil@outlook.com
 
 
 ## 🌐 Socials:
